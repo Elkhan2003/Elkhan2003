@@ -1,15 +1,52 @@
+## 🙋‍♂️ About Me
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+my+name+is+Elkhan.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=I+am+a+Frontend+Developer!)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="center">
+    <a href="https://github.com/Elkhan2003">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Languages and Tools:
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
 
-### Follow Me:
+<br/>
+
+## 📊 My Github Stats
+
+<div style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
+</a>
+<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+</a>
+
+##
+
+</div>
+<p align="center">
+    <a href="https://github.com/Elkhan2003">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Elkhan2003&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    </a>
+</p>
+
+##
+
+<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+</a>
+
+## 🔖 My contacts:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A)](https://wa.me/996990385056)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Elcho911)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/elcho911)
