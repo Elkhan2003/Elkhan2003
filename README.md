@@ -17,7 +17,8 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img src="https://img.icons8.com/color/tailwindcss"/> </a>
+    <a href="https://sass-scss.ru/" target="_blank"> <img src="https://img.icons8.com/color/sass.png"/> </a> 
+    <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img src="https://img.icons8.com/color/tailwindcss.png"/> </a>
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://elkhan2003.github.io/backend/Elcho/img/framer-motion-react.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -55,4 +56,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/elcho911)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/elcho_effects)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC9Vp5dVZkpf7pkffeiADP2A)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Elcho911) 
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/Elcho911)
