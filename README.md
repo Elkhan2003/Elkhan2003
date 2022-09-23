@@ -1,8 +1,8 @@
 ## 🙋‍♂️ About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+my+name+is+Elkhan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&lines=Hi,+my+name+is+Elkhan.)](https://github.com/Elkhan2003)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=I+am+a+Frontend+Developer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=I+am+a+Frontend+Developer!)](https://github.com/Elkhan2003)
 
 <!-- <p align="center">
     <a href="https://github.com/Elkhan2003">
