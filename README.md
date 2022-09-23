@@ -13,7 +13,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://elkhan2003.github.io/backend/Elcho/img/vs-code.png"/> </a>
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://elkhan2003.github.io/backend/Elcho/img/vs-code.png"/>&nbsp</a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank"> <img src="https://img.icons8.com/color/typescript.png"/> </a> 
@@ -26,7 +26,7 @@
     <a href="https://react-bootstrap.github.io/" target="_blank"> <img src="https://elkhan2003.github.io/backend/Elcho/img/react-bootstrap.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-</p>
+</>
 
 <br/>
 
