@@ -49,7 +49,7 @@
 
 ##
 
-<a href="https://github.com/Elkhan2003"><img alt="Subham Raoniar's Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/Elkhan2003"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a>
 
 ## 🔖 My contacts:
