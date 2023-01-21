@@ -7,7 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-
 <a href="https://github.com/Elkhan2003">
 <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I+study+at+DevX"/>
 </a>
@@ -25,7 +24,9 @@
 ## 🚀 Languages and Tools:
 
 <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://elcho911.netlify.app/Elcho/img/vs-code.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/></a>
+    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img src="https://elcho911.netlify.app/Elcho/img/vs-code.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank"> <img width="48px" src="https://img.icons8.com/color/typescript.png"/> </a> 
