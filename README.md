@@ -47,10 +47,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-<div align="center">
-<img width="700px" height=200px src="https://elcho911.netlify.app/Elkhan2003-icons/developer.gif"/>
-</div>
-
 <br/>
 
 ## 📊 My Github Stats
@@ -72,6 +68,10 @@
 
 <a href="https://github.com/Elkhan2003"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a>
+
+<div align="center">
+<img width="800px" height=200px src="https://elcho911.netlify.app/Elkhan2003-icons/developer.gif"/>
+</div>
 
 <!-- <p align="center">
     <a href="https://github.com/Elkhan2003">
