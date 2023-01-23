@@ -69,6 +69,10 @@
 <a href="https://github.com/Elkhan2003"><img alt="Elcho Effects Top Languages" src="https://activity-graph.herokuapp.com/graph?username=Elkhan2003&theme=react-dark&hide_border=true&bg_color=0D1117"/>
 </a>
 
+<div align="center">
+<img src="https://elcho911.netlify.app/Elkhan2003-icons/developer.gif"/>
+</div>
+
 <!-- <p align="center">
     <a href="https://github.com/Elkhan2003">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Elcho Effects Top Languages" src="https://github-profile-trophy.vercel.app/?username=Elkhan2003&theme=dracula&hide_border=true&bg_color=0D1117"/>
