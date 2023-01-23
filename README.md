@@ -5,7 +5,7 @@
 <!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/Front-end-DevX.gif"/> -->
 <!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/madara.gif"/> -->
 <!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/madara-v2.gif"/> -->
-<img src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
+<img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
 </div>
 
 <h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/Elkhan2003" target="_blank">Elkhan</a> 
