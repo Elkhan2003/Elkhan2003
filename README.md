@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5BCDEC&lines=I+am+a+Frontend+Developer!)](https://github.com/Elkhan2003) -->
 <div align="center">
-<img src="https://elcho911.netlify.app/Elkhan2003-icons/Front-end-DevX.gif"/>
+<!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/Front-end-DevX.gif"/> -->
 <!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/madara.gif"/> -->
-<!-- <img src="https://elcho911.netlify.app/Elkhan2003-icons/madara-v2.gif"/> -->
+<img src="https://elcho911.netlify.app/Elkhan2003-icons/madara-v2.gif"/>
 </div>
 
 <h1 align="center"><span style="color: #00FFF6; font-weight: 700;">Hi there, </span><span style="color: red; font-weight: 700;">I'm</span> <a style="color: #FFE15D; font-weight: 700;" href="https://github.com/Elkhan2003" target="_blank">Elkhan</a> 
