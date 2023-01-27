@@ -30,8 +30,8 @@
 ## 🚀 Languages and Tools
 
 <p align="left">
-    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="42px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/>&nbsp</a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img  width="47px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/></a>
+    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/></a>
     <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img src="https://elcho911.netlify.app/Elkhan2003-icons/vs-code.png"/>&nbsp</a>
     <a href="https://www.jetbrains.com/idea/" target="_blank"><img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
