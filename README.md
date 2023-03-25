@@ -34,7 +34,7 @@
     <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/5s7hH59/1.png"/>&nbsp</a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
     <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
-    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img src="https://elcho911.netlify.app/Elkhan2003-icons/vs-code.png"/>&nbsp</a>
+    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
     <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
