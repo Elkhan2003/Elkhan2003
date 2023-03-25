@@ -38,10 +38,10 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
     <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a> 
-    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
     <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
     <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  -->
     <a href="https://sass-scss.ru/" target="_blank"> <img width="51px" src="https://img.icons8.com/color/sass.png"/> </a> 
+    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
     <!-- <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img width="51px" src="https://img.icons8.com/color/tailwindcss.png"/> </a> -->
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/framer-motion-react.png"/> </a> 
     <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
