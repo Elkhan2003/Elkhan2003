@@ -43,7 +43,7 @@
     <a href="https://sass-scss.ru/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
     <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="46px" src="https://i.ibb.co/xmg56GJ/image.png"/>&nbsp</a> 
     <!-- <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img width="51px" src="https://img.icons8.com/color/tailwindcss.png"/> </a> -->
-    <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/framer-motion-react.png"/> </a> 
+    <a href="https://www.framer.com/motion/" target="_blank">&nbsp<img width="43px" src="https://i.ibb.co/JQ65k8b/image.png"/>&nbsp</a> 
     <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
     <!-- <a href="https://react-bootstrap.github.io/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/react-bootstrap.png"/> </a>  -->
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
