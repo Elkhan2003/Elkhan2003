@@ -30,20 +30,22 @@
 ## 🚀 Languages and Tools
 
 <p align="left">
-    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667"/>&nbsp</a>
+    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
+    <a href="https://vitejs.dev/" target="_blank">&nbsp<img  width="45px" src="https://clck.ru/33sFHw"/>&nbsp</a>
     <a href="https://www.jetbrains.com/webstorm/" target="_blank">&nbsp<img  width="42px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png"/>&nbsp</a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a>
     <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img src="https://elcho911.netlify.app/Elkhan2003-icons/vs-code.png"/>&nbsp</a>
-<!--     <a href="https://www.jetbrains.com/idea/" target="_blank">&nbsp<img  width="42px" src="https://www.digiseller.ru/preview/554839/p1_3426434_98691a2e.png"/>&nbsp</a> -->
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
     <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank"> <img width="48px" src="https://img.icons8.com/color/typescript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://nodejs.org/en" target="_blank">&nbsp<img width="43px" src="https://clck.ru/33sF8D"/>&nbsp</a> 
+    <!-- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  -->
+    <!-- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  -->
     <a href="https://sass-scss.ru/" target="_blank"> <img width="51px" src="https://img.icons8.com/color/sass.png"/> </a> 
-    <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img width="51px" src="https://img.icons8.com/color/tailwindcss.png"/> </a>
+    <!-- <a href="https://tailwindcss.com/docs/guides/create-react-app" target="_blank"> <img width="51px" src="https://img.icons8.com/color/tailwindcss.png"/> </a> -->
     <a href="https://www.framer.com/motion/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/framer-motion-react.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://react-bootstrap.github.io/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/react-bootstrap.png"/> </a> 
+    <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
+    <!-- <a href="https://react-bootstrap.github.io/" target="_blank"> <img src="https://elcho911.netlify.app/Elkhan2003-icons/react-bootstrap.png"/> </a>  -->
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
