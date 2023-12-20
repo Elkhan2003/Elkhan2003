@@ -13,12 +13,20 @@
 
 ## 🙋‍♂️ About Me
 
-<a href="https://github.com/Elkhan2003">
+<!-- <a href="https://github.com/Elkhan2003">
 <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I+study+at+DevX"/>
+</a> -->
+
+<!-- <a href="https://github.com/Elkhan2003">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=I'm+a+Frontend+Developer+Engineer"/>
+</a> -->
+
+<a href="https://github.com/Elkhan2003">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Frontend+Developer+Engineer"/>
 </a>
 
 <a href="https://github.com/Elkhan2003">
-<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=I'm+a+Frontend+Developer+Engineer"/>
+<img height="70" src="https://readme-typing-svg.herokuapp.com?color=CB1C8D&lines=Backend+Developer"/>
 </a>
 
 <div align="center">
